@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Sweety Dreaming",
+  "base_artist": "くるみつは",
+  "createdAt": "2026-01-13T16:42:56.706755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweety Tera Drama (From \"Bareilly Ki Barfi\")",
+      "artist": "Dev Negi feat. Pawni Pandey, Shraddha Pandit & Pravesh Mallick",
+      "has_synced": true,
+      "path": "select/01_Sweety_Tera_Drama_(From__Bareilly_Ki_Barfi_)_Dev_Negi_feat._Pawni_Pandey,_Shraddha_Pandit_&_Pravesh_Mallick.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweety Tera Drama",
+      "artist": "Dev Negi, Pawni Pandey & Shraddha Pandit",
+      "has_synced": true,
+      "path": "select/02_Sweety_Tera_Drama_Dev_Negi,_Pawni_Pandey_&_Shraddha_Pandit.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweety Tera Drama",
+      "artist": "Dev Negi, Pawni Pandey, Shraddha Pandit & Pravesh Mallick",
+      "has_synced": true,
+      "path": "select/03_Sweety_Tera_Drama_Dev_Negi,_Pawni_Pandey,_Shraddha_Pandit_&_Pravesh_Mallick.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Sweety Man",
+      "artist": "Ry Legit",
+      "has_synced": true,
+      "path": "select/04_The_Sweety_Man_Ry_Legit.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweety Tera Drama",
+      "artist": "Dev Negi, Rap by Pravesh Mallick, Shraddha Pandit, Pawni Pandey",
+      "has_synced": true,
+      "path": "select/05_Sweety_Tera_Drama_Dev_Negi,_Rap_by_Pravesh_Mallick,_Shraddha_Pandit,_Pawni_Pandey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweety",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/06_Sweety_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweety",
+      "artist": "GFriend",
+      "has_synced": false,
+      "path": "select/07_Sweety_GFriend.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Serenade - Itoshi No Umbrella - Sweety",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/08_Serenade_-_Itoshi_No_Umbrella_-_Sweety_BUCK-TICK.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweety Sweety",
+      "artist": "And One",
+      "has_synced": true,
+      "path": "select/09_Sweety_Sweety_And_One.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweety",
+      "artist": "Yemi Alade",
+      "has_synced": false,
+      "path": "select/10_Sweety_Yemi_Alade.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweety Sweety - Live Steffi",
+      "artist": "And One",
+      "has_synced": false,
+      "path": "select/11_Sweety_Sweety_-_Live_Steffi_And_One.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweety Humming",
+      "artist": "S.E.S.",
+      "has_synced": false,
+      "path": "select/12_Sweety_Humming_S.E.S..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweety Humming",
+      "artist": "S.E.S",
+      "has_synced": false,
+      "path": "select/13_Sweety_Humming_S.E.S.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweety You",
+      "artist": "Urban Zakapa",
+      "has_synced": false,
+      "path": "select/14_Sweety_You_Urban_Zakapa.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
+      "artist": "Zack Knight, Jasmin Walia",
+      "has_synced": true,
+      "path": "select/15_Bom_Diggy_Diggy_(From__Sonu_Ke_Titu_Ki_Sweety_)_Zack_Knight,_Jasmin_Walia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweety",
+      "artist": "Siddharth Mahadevan & Rabbit Mc",
+      "has_synced": false,
+      "path": "select/16_Sweety_Siddharth_Mahadevan_&_Rabbit_Mc.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweety",
+      "artist": "Reef",
+      "has_synced": true,
+      "path": "select/17_Sweety_Reef.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "On n'sait jamais (dans la vie) (feat. Magic System & Sweety)",
+      "artist": "Leslie",
+      "has_synced": true,
+      "path": "select/18_On_n'sait_jamais_(dans_la_vie)_(feat._Magic_System_&_Sweety)_Leslie.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sweety Sweety (radio edit)",
+      "artist": "And One",
+      "has_synced": false,
+      "path": "select/19_Sweety_Sweety_(radio_edit)_And_One.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweety Dreaming",
+      "artist": "くるみつは",
+      "has_synced": false,
+      "path": "select/pl_01_Sweety_Dreaming_くるみつは.txt"
+    }
+  ]
+}
